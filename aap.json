@@ -1,0 +1,7 @@
+{
+  "name": "Smart Home Energy Advisor Agent",
+  "version": "1.0.0",
+  "description": "An AI-powered Smart Home Energy Advisor Agent that analyzes electricity consumption, predicts electricity bills, and provides personalized energy-saving recommendations.",
+  "author": "Your Name",
+  "domain": "Electrical Engineering"
+}
